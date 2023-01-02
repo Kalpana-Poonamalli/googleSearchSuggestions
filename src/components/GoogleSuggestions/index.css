@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.gs-container {
+  background-color: white;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+.gs-img {
+  height: 140px;
+  width: 400px;
+}
+.gs-inner-container {
+  box-shadow: 0px 0px 10px 0px #bfbfbf;
+  margin: 20px;
+  border-radius: 16px;
+}
+.gs-input-search-container {
+  display: flex;
+  padding: 10px;
+}
+.gs-input {
+  border: none;
+  outline: none;
+  font-size: 18px;
+  width: 600px;
+}
+.gs-icon {
+  height: 22px;
+  width: 22px;
+  margin: 5px;
+}
